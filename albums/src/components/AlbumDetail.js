@@ -20,7 +20,7 @@ const AlbumDetail = (props) => {
 const styles = {
   headerContentStyle: {
     flexDirection: 'column',
-    justifyContent: 'space=around'
+    justifyContent: 'space-around'
   }
 };
 
